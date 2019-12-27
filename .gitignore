@@ -21,3 +21,17 @@
 /yarn-error.log
 
 .byebug_history
+/config/database.yml
+/config/deploy/*
+/config/application.yml
+
+.idea
+/*tmproj
+.rvmrc
+*~
+*.swp
+*.swo
+.DS_Store
+
+config/initializers/better_errors.rb
+*.zip
